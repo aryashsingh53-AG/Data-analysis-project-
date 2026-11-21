@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analytics Dashboard
 
-🔗 **Live Demo:** https://your-app-name.streamlit.app
+🔗 **Live Demo:** https://aryash-hr-attrition.streamlit.app/
 
 An end-to-end data analysis project that helps an HR team understand employee attrition: who is leaving, why, what it costs, and who is at risk next.
 
