@@ -48,12 +48,4 @@ python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\act
 pip install -r requirements.txt
 python -m src.generate_data      # optional: regenerate data
 python -m streamlit run app.py
-```
-
-## Deploy free on Streamlit Community Cloud
-1. Push this repo to GitHub.
-2. Go to https://share.streamlit.io → **New app** → select the repo, branch `main`, file `app.py`.
-3. Add the live link to the top of this README.
-
-## Next steps
-- SHAP explanations per employee · Threshold tuning by cost of a missed leaver · SQL layer · CI with GitHub Actions
+``
