@@ -1,5 +1,7 @@
 # 📊 HR Attrition Analytics — End-to-End Data Analysis & Dashboard
 
+Live link 🔗 https://aryash-hr-attrition.streamlit.app/
+
 An end-to-end analytics project that answers four business questions for an HR team:
 
 1. **How bad is attrition?** (rate, headcount lost, estimated replacement cost)
