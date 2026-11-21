@@ -18,14 +18,12 @@ Python · pandas · SciPy · scikit-learn · Plotly · Streamlit
 
 ## Project structure
 ```
-├── app.py                  # Streamlit dashboard (4 tabs)
-├── src/
-│   ├── generate_data.py    # synthetic dataset generator
-│   ├── analysis.py         # cleaning, feature engineering, statistical tests, cost model
-│   └── model.py            # Logistic Regression vs Random Forest, permutation importance
-├── hr_attrition.csv
+├── app.py               # Streamlit dashboard
+├── analysis.py          # cleaning, features, statistical tests
+├── model.py             # Logistic Regression vs Random Forest
+├── generate_data.py     # synthetic data generator
+├── hr_attrition.csv     # dataset
 └── requirements.txt
-```
 
 ## Methodology
 - **Feature engineering:** age groups, income quartiles, tenure bands, promotion lag.
